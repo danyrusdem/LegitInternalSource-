@@ -1,0 +1,9 @@
+﻿  menu.cpp
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(50,2): error C2360: пропуск инициализации "page" из-за метки "case"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(28): message : см. объявление "page"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(50,2): error C2360: пропуск инициализации "test" из-за метки "case"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(27): message : см. объявление "test"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(65,2): error C2360: пропуск инициализации "page" из-за метки "case"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(28): message : см. объявление "page"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(65,2): error C2360: пропуск инициализации "test" из-за метки "case"
+C:\Users\Даниил\Downloads\LegitInternalSource-master\core\menu\menu.cpp(27): message : см. объявление "test"
